@@ -3,7 +3,7 @@
 ---
 
 ### Question 1  
-`Where in the fulfillment workflow are errors most likely to originate?`
+*Where in the fulfillment workflow are errors most likely to originate?*
 
 ### Thinking  
 Errors are most likely to originate in upstream processes, particularly during the stowing stage.
@@ -25,7 +25,7 @@ Improving accuracy at the earliest stages of the workflow, while strengthening o
 ---
 
 ### Question 2  
-`How do different roles contribute to operational accuracy and efficiency?`
+*How do different roles contribute to operational accuracy and efficiency?*
 
 ### Thinking  
 Each role contributes differently depending on its position and responsibility within the workflow:
@@ -53,7 +53,7 @@ Improving operations requires not only optimizing tasks, but also strengthening 
 ---
 
 ### Question 3  
-`What points in the process act as quality control versus points of failure?`
+*What points in the process act as quality control versus points of failure?*
 
 ### Thinking  
 
