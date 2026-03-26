@@ -3,7 +3,7 @@
 ---
 
 ### Question 1  
-What themes consistently appear in employee voice data?
+*What themes consistently appear in employee voice data?*
 
 ### Thinking  
 Across multiple sources (YouTube and Glassdoor), several recurring themes appeared:
@@ -25,7 +25,7 @@ Improving retention requires addressing both workload and the support structures
 ---
 
 ### Question 2  
-What role does management play in employee experience and attrition?
+*What role does management play in employee experience and attrition?*
 
 ### Thinking  
 One recurring pattern that stood out was the impact of management consistency and support.
@@ -50,7 +50,7 @@ Strengthening management training, stability, and communication may be just as c
 ---
 
 ### Question 3  
-How does management structure influence operational pressure at the associate level?
+*How does management structure influence operational pressure at the associate level?*
 
 ### Thinking  
 If managers are overwhelmed or not adequately trained, they may struggle to:
