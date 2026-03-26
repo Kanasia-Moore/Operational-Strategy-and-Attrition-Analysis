@@ -1,7 +1,7 @@
 ## Week 02: Employee Voice & Sentiment Analysis
 
 ### Overview
-This week focused on analyzing employee voice data to better understand the underlying drivers of attrition.
+This week introduces the human side of operations by analyzing employee voice data and uncovering patterns that influence attrition.
 
 Using publicly available sources such as YouTube and Glassdoor, I collected and worked with unstructured employee feedback to identify recurring themes related to workplace experience, operational challenges, and support systems.
 
