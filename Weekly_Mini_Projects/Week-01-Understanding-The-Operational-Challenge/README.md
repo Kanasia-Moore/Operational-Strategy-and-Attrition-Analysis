@@ -31,5 +31,5 @@ In addition, early analysis of workforce conditions suggests that repetitive tas
 ### Reflection Connection
 This week shifted how I think about operations. Rather than viewing workflows as simple step-by-step processes, I started to see them as interconnected systems where decisions in one role directly impact outcomes in another.
 
-More of this thinking is captured in the Week 01 [Reflection](/reflections/Week-01-Reflection.md).
+More of this thinking is captured in the Week 01 [Reflection]([/reflections/Week-01-Reflection.md](https://github.com/Kanasia-Moore/Amazon-Ops-People-Analytics-Externship/blob/a27fa4763b8d14b632e583266dc091018239f51b/Weekly_Mini_Projects/Week-01-Understanding-The-Operational-Challenge/reflections/Week-01-Reflection.md)).
 
