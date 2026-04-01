@@ -1,7 +1,7 @@
 # Operational Strategy & Attrition Analysis (Externship Case Study)
 
 ## Overview
-This repository documents my work throughout an externship focused on operational strategy and workforce attrition.
+This repository documents my work throughout an Amazon externship focused on operational strategy and workforce attrition.
 
 The goal of this project is to explore how operational design, workforce structure, and leadership practices influence employee experience and retention within fulfillment environments.
 
