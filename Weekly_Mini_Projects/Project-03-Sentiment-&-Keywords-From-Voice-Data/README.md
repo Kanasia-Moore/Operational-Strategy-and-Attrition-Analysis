@@ -1,4 +1,4 @@
-## Project 03: Text Cleaning, Sentiment Analysis & Insight Extraction (Weeks 03–04)
+## Project 03: Text Cleaning, Sentiment Analysis & Insight Extraction
 
 ### Overview
 This phase of the project focused on deepening my use of Python to clean unstructured text data, conduct sentiment analysis, and translate findings into visual insights.
