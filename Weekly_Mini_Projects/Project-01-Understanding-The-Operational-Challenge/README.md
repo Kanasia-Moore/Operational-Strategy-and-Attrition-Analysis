@@ -1,4 +1,4 @@
-## Week 01: Understanding The Operational Challenge
+## Project 01: Understanding The Operational Challenge
 
 ### Overview
 This week focused on building a foundational understanding of how roles are structured within a fulfillment center and how work flows across those roles.
