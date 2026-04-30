@@ -58,9 +58,13 @@ Early analysis of workforce conditions also suggests that repetitive tasks, phys
 ---
 
 ### Reflection Connection
-This project shifted how I think about operations. Rather than viewing workflows as simple step-by-step processes, I started to see them as interconnected systems where decisions in one role can directly affect outcomes in another.
+This project gave me a clearer understanding of how operational workflows function in a fulfillment environment.
 
-It also helped me understand why mapping each role, task, tool, and support network matters before recommending change. Without that foundation, it is easy to focus only on frontline symptoms while missing the management and system-level conditions that shape those outcomes.
+What stood out most is how interconnected each layer of the operation is. While the process relies heavily on frontline execution, frontline roles also depend on leadership, communication, and support structures to function effectively.
+
+Mapping the workforce structure helped me see that performance is not driven only by individual tasks. It is shaped by how well each role, tool, workflow, and support network connects across the system.
+
+One area I want to explore further is the role of leadership. My initial briefing note focused more on improving frontline conditions, but this project helped me see that leadership structure, communication, and support may play an equally important role in both performance and attrition.
 
 More of this thinking is captured in the Project 01 [Reflection](reflections/Project-01-Reflection.md).
 
