@@ -41,10 +41,28 @@ This repository is organized as a project journey rather than a single finished 
 ```text
 Operational-Strategy-and-Attrition-Analysis/
 │
-├── Mini_Projects/
+├── Projects/
 │   ├── Project-01-Understanding-The-Operational-Challenge/
+│   │   ├── README.md
+│   │   ├── data/
+│   │   ├── deliverable(s)/
+│   │   ├── reflections/
+│   │   └── visuals/
+│   │
 │   ├── Project-02-Collect-&-Clean-Employee-Voice-Data/
+│   │   ├── README.md
+│   │   ├── data/
+│   │   ├── notebooks/
+│   │   ├── python/
+│   │   ├── reflections/
+│   │   └── visuals/
+│   │
 │   └── Project-03-Sentiment-&-Keywords-From-Voice-Data/
+│       ├── README.md
+│       ├── data/
+│       ├── deliverables/
+│       ├── python/
+│       └── visuals/
 │
 ├── Case_Study/
 ├── Pilot_Intervention/
