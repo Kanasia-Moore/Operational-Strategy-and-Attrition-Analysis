@@ -4,4 +4,4 @@ This section is reserved for a final case study that will be completed at the en
 
 For now, this space serves as a placeholder.
 
-If you're interested in the process behind the work, feel free to explore the [weekly mini-projects](/Weekly_Mini_Projects). Each one captures not just the deliverables, but the thinking, questions, and insights developed along the way.
+If you're interested in the process behind the work, feel free to explore the [projects](/Projects) section. Each one captures not just the deliverables, but the thinking, questions, and insights developed along the way.
