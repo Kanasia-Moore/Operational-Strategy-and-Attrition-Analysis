@@ -46,8 +46,7 @@ This project also highlighted the value of employee voice data as an early signa
 
 ### Deliverables
 - [Raw and cleaned employee voice datasets](./data)  
-- [Python scripts for data collection and analysis](./python)   
-- [Visualizations of sentiment and key themes](./visuals)  
+- [Python scripts for data collection and analysis](./python)    
 
 ---
 
