@@ -43,7 +43,7 @@ In contrast, YouTube content is more emotionally driven and less structured. Whi
 
 Together, these platforms complement each other — Glassdoor offering clarity and direction, while YouTube provides depth and lived experience.
 
-For a more detailed summary, see the [Findings Summary PDF](./deliverables/project-3-findings-summary.pdf).
+For a more detailed summary, see the [Findings Summary PDF](./analysis/Sentiment_Analysis_Summary.pdf).
 
 ---
 
@@ -66,7 +66,7 @@ Additional insights included:
 ### Deliverable(s)
 This section stores polished project outputs connected to this phase of the analysis.
 
-- [Findings Summary PDF](./deliverables/project-3-findings-summary.pdf) *(to be added)*  
+- [Findings Summary PDF](./analysis/Sentiment_Analysis_Summary.pdf) 
 - [Cleaned datasets](./data/cleaned)  
 - [Python scripts for preprocessing and sentiment analysis](./python)  
 - [Visualizations of sentiment distribution and trends](./visuals)  

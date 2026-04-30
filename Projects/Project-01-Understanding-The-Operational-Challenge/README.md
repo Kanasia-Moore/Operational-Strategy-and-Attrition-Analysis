@@ -44,7 +44,7 @@ Early analysis of workforce conditions also suggests that repetitive tasks, phys
 ### Deliverables
 - [Workforce Structure Table](/Projects/Project-01-Understanding-The-Operational-Challenge/data/Workforce_Structure.csv)
 - [Role Map Visualization](https://claude.ai/public/artifacts/26f7b34e-65eb-4b9d-a1b5-149397487028)
-- [Briefing Note](https://github.com/Kanasia-Moore/Operational-Strategy-and-Attrition-Analysis/blob/962065c8620ededda7da03d9c03416aa8b3c57aa/Projects/Project-01-Understanding-The-Operational-Challenge/deliverable(s)/Briefing%20Note.pdf)
+- [Briefing Note](./analysis/Briefing_Note.pdf)
 
 ---
 
