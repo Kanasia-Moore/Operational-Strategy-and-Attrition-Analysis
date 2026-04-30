@@ -52,15 +52,13 @@ Operational-Strategy-and-Attrition-Analysis/
 │   ├── Project-02-Collect-&-Clean-Employee-Voice-Data/
 │   │   ├── README.md
 │   │   ├── data/
-│   │   ├── notebooks/
 │   │   ├── python/
 │   │   ├── reflections/
-│   │   └── visuals/
 │   │
 │   └── Project-03-Sentiment-&-Keywords-From-Voice-Data/
 │       ├── README.md
 │       ├── data/
-│       ├── deliverables/
+│       ├── deliverable(s)/
 │       ├── python/
 │       └── visuals/
 │
