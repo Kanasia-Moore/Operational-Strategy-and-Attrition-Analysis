@@ -1,6 +1,6 @@
 # Operational Strategy & Attrition Analysis
 
-## Externship Project | Workforce Structure, Employee Voice & Attrition Drivers
+## Externship Project: Workforce Structure, Employee Voice & Attrition Drivers
 
 This repository documents my externship project focused on operational strategy, workforce structure, employee experience, and attrition within fulfillment-style work environments.
 
