@@ -43,8 +43,8 @@ Root cause analysis shifted the project from identifying symptoms to understandi
 ### Deliverables
 - [Theme-classified employee voice dataset](./data/Sentiment_Data_with_Themes.csv)
 - [Python scripts for theme tagging and sentiment analysis](./python/Voice_Data_With_Themes.ipynb)
-- [Theme sentiment visualizations](/Project-04-Theme-Classification-Root-Analysis/visuals)
-- [Root cause tree analysis](/Project-04-Theme-Classification-Root-Analysis/analysis)
+- [Theme sentiment visualizations](./visuals)
+- [Root cause tree analysis](./analysis)
 
 ### Connection to Previous Work
 Previous phases focused on operational structure, employee sentiment, text cleaning, and sentiment scoring.
