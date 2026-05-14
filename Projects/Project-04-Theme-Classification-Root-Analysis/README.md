@@ -41,11 +41,10 @@ However, positive sentiment around benefits did not appear to offset the operati
 Root cause analysis shifted the project from identifying symptoms to understanding how operational pressures connect throughout the system, especially through the relationship between productivity demands, management strain, reduced employee support, burnout, and attrition.
 
 ### Deliverables
-- Theme-classified employee voice dataset (see `/data`)
-- Python scripts for theme tagging and sentiment analysis (see `/python`)
-- Theme sentiment visualizations (see `/visuals`)
-- Root cause tree analysis (see `/analysis`)
-- Key questions and operational thinking (see `/analysis/key_questions.md`)
+- [Theme-classified employee voice dataset](Projects/Project-04-Theme-Classification-Root-Analysis/data/Sentiment_Data_with_Themes.csv)
+- [Python scripts for theme tagging and sentiment analysis](Projects/Project-04-Theme-Classification-Root-Analysis/python/Voice_Data_With_Themes.ipynb)
+- [Theme sentiment visualizations](Projects/Project-04-Theme-Classification-Root-Analysis/visuals)
+- [Root cause tree analysis](Projects/Project-04-Theme-Classification-Root-Analysis/analysis)
 
 ### Connection to Previous Work
 Previous phases focused on operational structure, employee sentiment, text cleaning, and sentiment scoring.
