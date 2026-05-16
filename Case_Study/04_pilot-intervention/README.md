@@ -1,24 +1,111 @@
 # Pilot Intervention
 
-This section proposes and evaluates a structured pilot intervention designed to address burnout and workforce instability.
+## Overview
 
-## Purpose
+[Write 2–4 sentences explaining what this pilot intervention is attempting to test and why it was proposed based on your findings.]
 
-Test whether structured recovery systems can improve employee experience and reduce attrition-related outcomes.
+Example direction:
+This pilot intervention explores whether structured recovery systems can reduce burnout and improve workforce stability within fulfillment center environments.
+
+---
+
+## Problem Being Addressed
+
+[Summarize the operational issue this intervention responds to.]
+
+Potential focus areas:
+- [Burnout]
+- [Fatigue]
+- [High attrition]
+- [Lack of recovery time]
+- [Management workload pressure]
+
+---
 
 ## Proposed Intervention
 
+[Describe the intervention in detail.]
+
+Example structure:
 - Structured 5–10 minute micro-breaks every hour
-- Staggered scheduling to maintain workflow coverage
-- Management-led implementation and monitoring
+- Breaks staggered across teams to maintain workflow coverage
+- Monitoring and implementation handled by Process Assistants and Area Managers
+- Applied to high-intensity or repetitive operational roles
+
+---
+
+## Hypothesis
+
+[Write the expected outcome of the intervention.]
+
+Example direction:
+If structured recovery time is introduced consistently throughout shifts, employee fatigue and burnout indicators may decrease, leading to improved attendance, retention, and operational consistency.
+
+---
 
 ## Evaluation Metrics
 
-- Attrition rates
-- Attendance patterns
-- Productivity output
-- Employee sentiment trends
+[List the metrics that would be tracked before and after implementation.]
 
-## Key Insight
+Potential metrics:
+- [Attrition rate]
+- [Attendance and call-outs]
+- [Productivity output]
+- [Error rates]
+- [Employee sentiment trends]
 
-Burnout may not solely reflect individual resilience, but broader operational and management design decisions.
+---
+
+## Supporting Visuals
+
+[Add diagrams, mock dashboards, or metric visuals here once uploaded to the `visuals/` folder.]
+
+```markdown
+![Pilot Framework](./visuals/pilot_framework.png)
+```
+
+---
+
+## Expected Outcomes
+
+[Explain what improvements the intervention is expected to create.]
+
+Potential outcomes:
+- [Reduced fatigue]
+- [Improved morale]
+- [More stable workflow performance]
+- [Lower attrition]
+- [Improved support systems]
+
+Example direction:
+Based on fatigue management research and employee sentiment findings, the intervention is projected to reduce associate attrition by approximately 15–20%.
+
+---
+
+## Operational Considerations
+
+[Explain any challenges, limitations, or operational trade-offs involved in implementation.]
+
+Potential considerations:
+- [Workflow coverage]
+- [Scheduling adjustments]
+- [Managerial enforcement]
+- [Balancing output expectations with recovery time]
+
+---
+
+## Connection to Management
+
+[Explain how this intervention reflects broader management and workload design decisions.]
+
+Prompt:
+- How does management influence recovery systems?
+- How does workload design contribute to burnout?
+- What does this intervention reveal about operational priorities?
+
+---
+
+## Supporting Files
+
+- `visuals/` — stores diagrams, mock dashboards, or pilot visuals used in this section.
+- `references/` — stores source notes, links, or supporting research if needed later.
