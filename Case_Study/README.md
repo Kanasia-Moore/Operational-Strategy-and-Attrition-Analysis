@@ -1,7 +1,96 @@
-## Case Study (In Progress)
+# [Case Study Title]
 
-This section is reserved for a final case study that will be completed at the end of the externship.
+## Overview
 
-For now, this space serves as a placeholder.
+[Write 2–4 sentences explaining what this case study is about. Focus on the operational problem, why it matters, and what you analyzed.]
 
-If you're interested in the process behind the work, feel free to explore the [projects](/Projects) section. Each one captures not just the deliverables, but the thinking, questions, and insights developed along the way.
+Example direction:
+This case study explores how workforce structure, management practices, and employee voice data reveal potential drivers of burnout and attrition within fulfillment center environments.
+
+---
+
+## Core Insight
+
+> "The system is optimized for output — not people."
+
+[Write 2–3 sentences explaining what this means in the context of your findings. Connect output, productivity pressure, burnout, management support, and attrition.]
+
+---
+
+## Case Study Sections
+
+### 1. Workforce Analysis
+
+**What this section covers:**
+- [Describe the workforce structure or role mapping you analyzed.]
+- [List the key roles involved, such as Associates, Learning Ambassadors, Process Assistants, Area Managers, and Operations Managers.]
+- [Explain how responsibilities and dependencies flow across roles.]
+
+**Insight this section leads to:**
+- [Explain what the structure reveals about operational dependency, management support, or workflow risk.]
+- [Connect this section to the next one by explaining why employee experience needs to be examined.]
+
+---
+
+### 2. Employee Voice Analysis
+
+**What this section covers:**
+- [Describe the employee voice data you used, such as YouTube comments, Glassdoor reviews, or other feedback sources.]
+- [Explain what cleaning, sentiment analysis, or theme identification you performed.]
+- [List recurring themes such as burnout, fatigue, poor communication, lack of support, or feeling replaceable.]
+
+**Insight this section leads to:**
+- [Explain what employee voice data suggests about the lived experience of associates.]
+- [Connect these themes back to workload design, management gaps, or attrition risk.]
+
+---
+
+### 3. Attrition Insights
+
+**What this section covers:**
+- [Summarize how workforce structure and employee voice data connect.]
+- [Identify the likely drivers of attrition based on your analysis.]
+- [Explain where management, workload, burnout, and support systems overlap.]
+
+**Insight this section leads to:**
+- [State your strongest conclusion about the root problem.]
+- [Explain how the system may prioritize output while under-supporting the people responsible for that output.]
+- [Use this section to transition into your proposed pilot intervention.]
+
+---
+
+### 4. Pilot Intervention
+
+**What this section covers:**
+- [Introduce the proposed intervention: structured 5–10 minute micro-breaks every hour.]
+- [Explain how breaks would be staggered to maintain operational coverage.]
+- [Describe who would manage the intervention, such as Process Assistants and Area Managers.]
+- [List the metrics you would track: attrition, attendance, productivity, error rates, and sentiment trends.]
+
+**Insight this section leads to:**
+- [Explain how structured recovery time could reduce fatigue and burnout.]
+- [Connect the intervention back to management effectiveness and workload design.]
+- [State the expected outcome, such as a projected 15–20% reduction in attrition if supported by your analysis or research.]
+
+---
+
+## Future Improvements
+
+[Write 2–4 bullets about what could be added later.]
+
+- [Automation for burnout or sentiment monitoring]
+- [Dashboard for tracking attrition and attendance trends]
+- [Simulated pilot results]
+- [Expanded manager voice data or leadership feedback]
+
+---
+
+## Notes to Self
+
+Use this README as the high-level story. Keep detailed work, code, visuals, and reflections inside each section folder.
+
+Main README = project trailer.
+
+Case Study README = full story map.
+
+Section READMEs = deeper explanation of each step.
