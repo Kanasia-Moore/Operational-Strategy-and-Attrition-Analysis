@@ -52,8 +52,8 @@ The [Projects](./Projects) folder contains the individual externship projects th
 - [Project 1: Understanding the Operational Challenge](./Projects/Project-01-Understanding-The-Operational-Challenge)
 - [Project 2: Collect & Clean Employee Voice Data](./Projects/Project-02-Collect-&-Clean-Employee-Voice-Data)
 - [Project 3: Sentiment & Keywords from Voice Data](./Projects/Project-03-Sentiment-&-Keywords-From-Voice-Data)
-- [Project 4: Add project title here](./Projects/Project-04)
-- [Project 5: Add project title here](./Projects/Project-05)
+- [Project 4: Theme Classification & Root Analysis](./Projects/Project-04)
+- [Project 5: Voice Data Segmentation & Prioritization](./Projects/Project-05)
 
 ---
 
@@ -66,7 +66,6 @@ Operational-Strategy-and-Attrition-Analysis/
 │   ├── 01_workforce-analysis/
 │   ├── 02_employee-voice-analysis/
 │   ├── 03_attrition-insights/
-│   └── 04_pilot-intervention/
 │
 ├── Pilot_Intervention/
 │
@@ -108,9 +107,3 @@ This project demonstrates my ability to:
 - and turn analysis into a testable intervention.
 
 ---
-
-## Status
-
-This project is in progress as part of my externship.
-
-The current repository includes the project work, case study framework, and pilot intervention structure.
