@@ -1,11 +1,10 @@
-# [Case Study Title]
+# Amazon Operational Strategy and Attrition Analysis
 
 ## Overview
 
-[Write 2–4 sentences explaining what this case study is about. Focus on the operational problem, why it matters, and what you analyzed.]
+[Write 2–4 sentences explaining what this case study is about. Focus on the operational problem, why it matters, and what you analyzed
 
-Example direction:
-This case study explores how workforce structure, management practices, and employee voice data reveal potential drivers of burnout and attrition within fulfillment center environments.
+This case study explores how workforce structure, management practices, and operational design impact the employees of the Amazon Fulfillment Center, leading to high turnover rates amongst the assocaites and inevitably delayed fulfillment. Using reviews from Glassdoor and YouTube, I was able to narrow down major pain-points contributing to employee retention. All of this, led me to my core insight.
 
 ---
 
