@@ -2,8 +2,6 @@
 
 ## Overview
 
-[Write 2–4 sentences explaining what this case study is about. Focus on the operational problem, why it matters, and what you analyzed
-
 This case study explores how workforce structure, management practices, and operational design impact the employees of the Amazon Fulfillment Center, leading to high turnover rates amongst the assocaites and inevitably delayed fulfillment. Using reviews from Glassdoor and YouTube, I was able to narrow down major pain-points contributing to employee retention. All of this, led me to my core insight.
 
 ---
